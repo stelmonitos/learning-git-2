@@ -1,0 +1,15 @@
+.title {
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 200px;
+}
+
+.song {
+    margin-left: 20px;
+}
+
+.container {
+        max-width: 1140px;
+        margin: 0 auto;
+        padding: 0 20px;
+}
